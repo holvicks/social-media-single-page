@@ -1,6 +1,6 @@
 import { AppBar, Box, InputBase, styled, Toolbar, Typography, Badge, Avatar} from '@mui/material';
 import React, { useState } from 'react';
-import { Pets, Email, Notifcations, Notifications } from '@mui/icons-material';
+import { Pets, Email, Notifications } from '@mui/icons-material';
 import './theme';
 import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
